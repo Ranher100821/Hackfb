@@ -1,4 +1,4 @@
-#decompiled by PDM31
+
 import os, sys
 print '\x1b[1;32mMasukan ID: artikelcara10 dan Password: ac10hacks untuk Login dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'
 print '\x1b[1;32mSilahkan Login '
